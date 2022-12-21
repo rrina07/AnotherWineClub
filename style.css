@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.text-muted {
+  font-size: 12px;
+  padding-bottom: 40px;
+}
+.card-body {
+  align-items: center;
+  margin: 30px 300px 0px 10px;
+}
+.card-title {
+  padding-bottom: 10px;
+  font-size: 3.1rem;
+}
+.top-seller {
+  text-align: center;
+  padding: 20px 0;
+}
+.form-control {
+  width: ;
+}
+.wine-images_section {
+  display: flex;
+
+  height: 200px;
+  justify-content: space-around;
+}
+.wine-image {
+  border: 2px solid white;
+  height: 200px;
+  border-radius: 50%;
+}
+.wine-images_section p {
+  text-align: center;
+  font-size: 32px;
+  font-weight: bold;
+  padding: 0px 0;
+}
+footer {
+  padding-top: 40px;
+}
+.card-body1 {
+  padding: 60px;
+}
